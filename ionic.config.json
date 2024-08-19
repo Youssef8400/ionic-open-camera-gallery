@@ -1,0 +1,7 @@
+{
+  "name": "codeswagCamera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
